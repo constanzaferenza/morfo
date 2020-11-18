@@ -7,7 +7,7 @@ h2,
 h3,
 h4,
 h5 {
-  font-family: "Faustina", serif;
+  
   font-family: termina, sans-serif;
   font-style: normal;
 }
@@ -15,9 +15,8 @@ h5 {
 
 
 p {
-  font-family: "Jaldi", sans-serif;
+ 
+  font-family: 'Montserrat', sans-serif;
 }
 
-h5 {
-  color: pink;
-}
+
