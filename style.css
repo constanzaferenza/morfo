@@ -1,0 +1,23 @@
+body {
+  margin: 0em;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: "Faustina", serif;
+  font-family: termina, sans-serif;
+  font-style: normal;
+}
+
+
+
+p {
+  font-family: "Jaldi", sans-serif;
+}
+
+h5 {
+  color: pink;
+}
