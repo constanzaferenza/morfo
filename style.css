@@ -5,18 +5,31 @@ body {
 h1,
 h2,
 h3,
-h4,
-h5 {
-  
+h4{
+
   font-family: termina, sans-serif;
   font-style: normal;
 }
 
+h1{
+  color: white;
+}
 
+h5{
+  font-family: 'Montserrat', sans-serif;
+  font-style: normal;
+  color: white;  
+}
 
 p {
- 
   font-family: 'Montserrat', sans-serif;
+  font-style: normal;
 }
+
+.portada {
+  height: 400px;
+  background-color: black;
+}
+
 
 
